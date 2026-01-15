@@ -1,0 +1,5 @@
+{
+  "name": "X-Purge: Smart Reply Manager",
+  "description": "A high-performance tool for auditing and managing your X (Twitter) reply history. Upload your X archive, filter by dates and keywords, and use AI to identify replies for removal.",
+  "requestFramePermissions": []
+}
